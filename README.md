@@ -373,6 +373,6 @@ $
 
 ## Team Members/ Authors ##
 
- 1. Abraham Elijah
+ 1. [Abraham Elijah](https://github.com/cgrade)
  2. [Onyinyechi Nwafor Kimberly](https://github.com/OnyinyeNwafor)
 
